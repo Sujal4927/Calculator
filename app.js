@@ -1,10 +1,6 @@
 let input = document.getElementById('in');
 let btn = document.querySelectorAll('button');
 
-
-
-
-
 let string = "";
 let arr = Array.from(btn);
 arr.forEach((btn) => {
